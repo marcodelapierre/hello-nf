@@ -5,3 +5,4 @@ A simple script showing the basic Hello World! example for the Nextflow framewor
 
 mytest add
 2nd test
+3rd test
